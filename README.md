@@ -2,7 +2,7 @@
 
 ## Python implementation of MDP Reinforcement Learning to learn how to play the Swingy Monkey game (essentially Flappy Bird).
 
-[Here's a link to a video demonstration](https://www.youtube.com/watch?v=n2C_SpC5T4A)
+[Here's a link to a video demonstration](https://www.youtube.com/watch?v=rzRyZcP2NE8&feature=youtu.be)
 
 One cool twist is that we implement feature-based learning, as opposed to game-state-based learning. That is, we implement 
 online learning on specified game features (like vertical distance from monkey to ground, horizontal distance to nearest 
